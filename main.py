@@ -106,6 +106,8 @@ request = [
 
 style = ttk.Style()
 
+print(1+1)
+
 
 
 
